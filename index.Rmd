@@ -1,0 +1,28 @@
+---
+title: "Data Science"
+description: |
+  Master Degree in Statistics and Economics, University of Milano-Bicocca 
+author:
+  - name: Aldo Solari
+    url: https://aldosolari.github.io/
+    affiliation: DEMS
+    affiliation_url: https://dems.unimib.it/it
+  - name: Matteo Borrotti
+    url: https://www.unimib.it/matteo-borrotti
+    affiliation: DEMS
+    affiliation_url: https://dems.unimib.it/it
+date: "`r Sys.Date()`"
+output:
+  radix::radix_article:
+    toc: true
+    toc_depth: 1
+---
+
+The course aims to provide a broad coverage of the statistical principles and techniques to interpret and extract knowledge from the data. The course is composed by two parts:
+
+* [Data Mining](https://aldosolari.github.io/DM/)
+* [Statistical Learning](https://aldosolari.github.io/SL/)
+
+
+
+
